@@ -106,7 +106,7 @@ async def start_me(bot, update):
                     InlineKeyboardButton('📣 Support 📣', url='https://t.me/DevelopedBotz')
                 ],
                 [
-                    InlineKeyboardButton('💻 Source 💻', url='https://github.com/DevelopedBots/FileRenamerV2Bot')
+                    InlineKeyboardButton('💻 Source 💻', url='https://github.com/Kunal-Diwan/FileRenamerV2Bot')
                 ]
             ]
         ),
